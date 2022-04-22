@@ -18,19 +18,9 @@ hr {
   width: 90%;
 
 }
-section.introduction ul li {
-
-  margin: 10px;
-  list-style-type: none;
-  text-size-adjust: none;
-}
 em {
   font-style: normal;
   font-weight: 900;
-}
-section.abstract h1 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
 }
 p {
   overflow: hidden;
@@ -41,6 +31,16 @@ p {
 img{
     display: flex;
     margin: 1rem;
+}
+section.introduction ul li {
+
+  margin: 10px;
+  list-style-type: none;
+  text-size-adjust: none;
+}
+section.abstract h1 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
 }
 section.details {
     margin-top: 15px;
