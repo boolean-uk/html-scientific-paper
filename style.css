@@ -13,10 +13,8 @@ header {
   font-size: x-large;
 }
 hr {
-
   margin-bottom: 30px;
   width: 90%;
-
 }
 em {
   font-style: normal;
@@ -28,12 +26,11 @@ p {
   text-overflow: ellipsis;
   white-space: pre-line;
 }
-img{
-    display: flex;
-    margin: 1rem;
+img {
+  display: flex;
+  margin: 1rem;
 }
 section.introduction ul li {
-
   margin: 10px;
   list-style-type: none;
   text-size-adjust: none;
@@ -43,27 +40,26 @@ section.abstract h1 {
   margin-bottom: 1rem;
 }
 section.details {
-    margin-top: 15px;
-    margin-left: 30px;
+  margin-top: 15px;
+  margin-left: 30px;
 }
-.top-header{
-    display:flex;
+.top-header {
+  display: flex;
 }
-.top-header img{
-    margin: 5px;
-    width:20px;
+.top-header img {
+  margin: 5px;
+  width: 20px;
 }
-.first-paragraph p{
-    margin-top: 10px;
-    margin-bottom: 10px;
+.first-paragraph p {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
-.first-paragraph ul li{
-    margin: 10px;
+.first-paragraph ul li {
+  margin: 10px;
 }
-.second-paragraph ul li{
-    margin: 10px;
+.second-paragraph ul li {
+  margin: 10px;
 }
-.li-inside{
-margin-left: 20px;
-
+.li-inside {
+  margin-left: 20px;
 }
