@@ -24,6 +24,6 @@ Welcome to the first exercise of the HTML series. In this exercise we are going 
 - Use this url for the image: [https://docs.opencv.org/2.4/_images/optimal-hyperplane.png]
 - Use this url for the link: [https://en.wikipedia.org/wiki/Support_vector_machine]
 
-## Challenges
+## Extension
 - Create a second page and link to it
 - Use five elements not listed above! Use the MDN resource above to find new elements you've not yet used.
