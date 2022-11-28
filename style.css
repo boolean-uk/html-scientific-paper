@@ -1,0 +1,47 @@
+nav {
+    border: 1px darkgray solid;
+    background-color: lightgray;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 18px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+footer {
+    border: 1px darkorange solid;
+    background-color: orange;
+    color: darkred;
+    text-align: center;
+}
+
+article {
+    padding: 15px 10px 20px 15px;
+    border-bottom: 1px dotted lightblue;
+}
+
+article h2 {
+    color: darkgrey
+}
+
+article table {
+    width: 100%;
+    border: 1px darkblue solid;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+article table td {
+    border: 1px brown solid;
+    background-color: lightgreen;
+    text-align: right;
+}
+
