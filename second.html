@@ -8,7 +8,7 @@
 </head>
 <body>
     <section class="Table">
-        <p>Table:</p>
+        <h3>Table:</h3>
         <table style="width:25%">
             <tr>
             <th>ID</th>
@@ -29,8 +29,32 @@
     </section>
     <hr>
     <section>
-        <p>iframe:</p>
-        <iframe src="https://www.youtube.com" title="youtube" height="300px" width="600px" style="border:none;"></iframe>
+        <h3>iframe:</h3>
+        <iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ">
+</iframe>
+    </section>
+    <hr>
+    <section>
+        <h3>Button:</h3>
+        <button type="button" onclick="document.getElementById('time').innerHTML = Date()">Click to display Date/Time.</button>
+        <p id="time"></p>
+    </section>
+    <hr>
+    <section>
+        <h3>Audio:</h3>
+        <audio controls>
+            <source src="oiyj.mp3" type="audio/mpeg">
+        </audio>
+    </section>
+    <section>
+        <h3>Other Formatting:</h3>
+        <p><small>Small text</small></p>
+        <p><del>Deleted text</del></p>
+        <p><ins>Inserted text</ins></p>
+        <p><mark>Marked text</mark></p>
+    </section>
+    <section class="firstPage">
+        <a href="index.html">Click to go to Second Page</a>
     </section>
 </body>
 </html>
