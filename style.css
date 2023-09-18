@@ -1,0 +1,20 @@
+html {
+  max-width: 1170px;
+  margin: 0rem auto;
+}
+.section-2 h2 {
+  text-transform: capitalize;
+}
+.indent-text {
+  margin-left: 2rem;
+}
+.indent-text strong {
+  text-transform: capitalize;
+}
+a {
+  text-decoration: none;
+  font-size: 20px;
+  text-align: left;
+  display: block;
+  padding: 0.5rem 0rem;
+}
