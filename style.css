@@ -5,11 +5,14 @@
 
 body{
     background-color: antiquewhite;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     width: 100%;
     line-height: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
     
 
 }
@@ -66,4 +69,23 @@ section li{
 
 .section-2 a:hover{
     color: rgba(0, 0, 0, 0.56);
+    
 }
+
+
+
+
+@media only screen and (max-width: 468px) {
+    body {
+      background-color: lightblue;
+    }
+
+    main {
+        background-color: lightblue;
+        width: 100%;
+      }
+
+      img{
+        width: 100%;
+      }
+  }
