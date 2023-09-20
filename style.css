@@ -1,0 +1,20 @@
+body{
+    background-color:#a6e4e7 ;
+}
+.letter-color{
+    color: #272343;
+}
+h1{
+    padding-left: 180px;
+}
+section{
+    padding-left: 40%;
+    border-color: #272343;
+    border-radius: 2px;
+    margin: 0;
+
+}
+.mainbody{
+   margin-left: 20%;
+   margin-right: 20%;
+}
