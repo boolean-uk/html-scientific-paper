@@ -26,4 +26,4 @@ Welcome to the first exercise of the HTML series. In this exercise we are going 
 
 ## Extension
 - Create a second page and link to it
-- Use five elements not listed above! Use the MDN resource above to find new elements you've not yet used.
+- Use five elements not listed above! Use [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML) to find new elements you've not yet used.
